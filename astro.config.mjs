@@ -32,6 +32,7 @@ export default defineConfig({
             { label: 'Sharing', link: '/guides/sharing'},
             { label: 'Tags', link: '/guides/tags'},
             { label: 'Resources', link: '/guides/resources'},
+	    { label: 'Webhooks', link: '/guides/webhooks'},
           ]
 				},
 				{
