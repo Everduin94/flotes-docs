@@ -55,7 +55,7 @@ This is ***bold and italic text***
 
 ### Ordered
 
-1. Steal underpants
+1. Collect underpants
 2. ???
 3. Profit!!!
 
