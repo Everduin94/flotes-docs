@@ -127,10 +127,3 @@ After studying, our notebook will move to the *waiting* state. Since we setup ou
 
 ![Flotes Waiting](../../../assets/flotes-waiting.png)
 
-
-:::caution[Under Construction]
-
-Flotes documentation is a work in progress. 
-[Join the Discord](https://discord.com/invite/qKaKeGT8sZ) to get updates!
-
-:::

@@ -1,11 +1,15 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Flotes Documentation',
+      customCss: [
+        './src/tailwind.css'
+      ],
       logo: {
         replacesTitle: true,
         dark: './src/assets/logo-dark-1.svg',
@@ -41,5 +45,9 @@ export default defineConfig({
 				},
 			],
 		}),
+    tailwind({
+      // Disable the default base styles:
+      applyBaseStyles: false,
+    }),
 	],
 });

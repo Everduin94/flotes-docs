@@ -1,9 +1,11 @@
 ---
 title: Intro
-description: A guide in my new Starlight docs site.
+description: Flotes introduction documentation
 ---
 
 Flotes supercharges ordinary Markdown into studyable notes. It amplifies learning of any topic by providing built-in spacing algorithms, structured study sessions with fill in the blanks, and data driven learning through stats and feedback.
+
+![bento](https://ik.imagekit.io/flotes/2023-07-08_22-32-EDIT.jpeg?updatedAt=1689541548656)
 
 This documentation is not necessary to use Flotes. All you need to know is how to write Markdown, the rest takes care of itself. If you don't know how to write Markdown, see [Markdown Reference](https://docs.flotes.app/reference/markdown). Additionally, Flotes provides editor buttons and templates to auto generate Markdown syntax.
 
