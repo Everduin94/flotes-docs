@@ -45,6 +45,14 @@ export default defineConfig({
           label: "Reference",
           autogenerate: { directory: "reference" },
         },
+        {
+          label: "About",
+          items: [
+            { label: "Contact", link: "/about/contact" },
+            { label: "Terms of Service", link: "/about/tos" },
+            { label: "Privacy Policy", link: "/about/privacy" },
+          ],
+        },
       ],
     }),
     tailwind({
