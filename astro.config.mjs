@@ -23,7 +23,15 @@ export default defineConfig({
           autogenerate: { directory: "getting-started" },
         },
         {
-          label: "Guides",
+          label: "Concepts",
+          items: [
+            { label: "Write", link: "/concepts/write" },
+            { label: "Organize", link: "/concepts/organize" },
+            { label: "Learn", link: "/concepts/learn" },
+          ],
+        },
+        {
+          label: "Components",
           items: [
             { label: "Notebooks", link: "/guides/notebooks" },
             { label: "Notes", link: "/guides/notes" },

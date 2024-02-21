@@ -1,3 +1,57 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  --sl-color-orange-low: hsl(41, 86%, 83%, .08);
+  --sl-color-orange: hsl(41, 86%, 83%);
+  --sl-color-orange-high: hsl(41, 86%, 83%);
+  --sl-color-red-low: hsl(343, 81%, 75%, .08);
+  --sl-color-red: hsl(343, 81%, 75%);
+  --sl-color-green-low: hsl(115, 54%, 76%, .08);
+  --sl-color-green: hsl(115, 54%, 76%);
+  --sl-color-purple-low: hsl(267, 84%, 81%, .08);
+  --sl-color-purple: hsl(267, 84%, 81%);
+  --sl-color-blue-low: hsl(217, 92%, 76%, .08);
+  --sl-color-blue: hsl(217, 92%, 76%);
+  --sl-color-blue-high: hsl(217, 92%, 76%);
+}
+
+.success-badge, .info-badge, .warning-badge, .error-badge, .secondary-badge, .primary-badge{
+  display: inline;
+  color: var(--color);
+  background: 	var(--color-dark);
+  border: 1px solid var(--color);
+  border-radius: 6px;
+  padding: 2px 8px;
+}
+
+.success-badge {
+  --color: hsl(115, 54%, 76%);
+  --color-dark: hsl(115, 54%, 76%, .05);
+}
+
+.info-badge {
+  --color: hsl(217, 92%, 76%);
+  --color-dark: hsl(217, 92%, 76%, .05);
+}
+
+.error-badge {
+  --color: hsl(343, 81%, 75%);
+  --color-dark: hsl(343, 81%, 75%, .05);
+}
+
+.warning-badge {
+  --color: hsl(41, 86%, 83%);
+  --color-dark: hsl(41, 86%, 83%, .05);
+}
+
+.secondary-badge {
+  --color: hsl(267, 84%, 81%);
+  --color-dark: hsl(267, 84%, 81%, .05);
+}
+
+.primary-badge {
+  --color: hsl(170, 57%, 73%);
+  --color-dark: hsl(115, 54%, 76%, .05);
+}

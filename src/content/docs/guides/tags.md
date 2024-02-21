@@ -3,6 +3,7 @@ title: Tags
 description: A guide in my new Starlight docs site.
 ---
 
+#### <div class="info-badge">Organize</div>
 
 :::caution[Under Construction]
 

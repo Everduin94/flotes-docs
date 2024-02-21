@@ -1,9 +1,8 @@
 ---
-title: Notes
-description: A guide in my new Starlight docs site.
+title: Write Notes
+description: Flotes writing concepts
 ---
 
-#### <div class="secondary-badge">Write</div>
 
 :::caution[Under Construction]
 
