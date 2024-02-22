@@ -3,6 +3,7 @@ title: Spaced Repetition
 description: A guide in my new Starlight docs site.
 ---
 
+#### <div class="info-badge">Organize</div> <div class="primary-badge">Learn</div>
 
 :::caution[Under Construction]
 

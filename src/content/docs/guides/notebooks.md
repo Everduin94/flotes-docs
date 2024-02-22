@@ -3,6 +3,8 @@ title: Notebooks
 description: A guide in my new Starlight docs site.
 ---
 
+#### <div class="secondary-badge">Write</div> <div class="info-badge">Organize</div> <div class="primary-badge">Learn</div>
+
 :::caution[Under Construction]
 
 Flotes documentation is a work in progress. 
