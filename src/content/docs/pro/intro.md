@@ -3,6 +3,14 @@ title: Pro Features
 description: A guide to Flotes pro features
 ---
 
+## Cloud Sync Canvas
+
+The canvas feature of Flotes saves to your **browser locally**. With a pro subscription, **canvas will save to a server**. This means your data is **available across all devices**. This also **protects your canvas data** in the event of your computer crashing or browser cache being cleared.
+
+
+:::note[Publish Canvas]
+In the future, pro will give you the option to publish and share your canvas.
+:::
 
 ## Webhooks
 
