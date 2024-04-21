@@ -9,7 +9,9 @@ The canvas feature of Flotes saves to your **browser locally**. With a pro subsc
 
 
 :::note[Publish Canvas]
-In the future, pro will give you the option to publish and share your canvas.
+Pro users can share their canvas with others. Setting a Notebook to public will publish the canvas. This can be a great way to create interesting & engaging content for others.
+
+See example: [Signals Deep Dive Canvas](http://localhost:5173/public/📡-angular-signals-guide-6j1RJNknv?c=true)
 :::
 
 ## Webhooks
