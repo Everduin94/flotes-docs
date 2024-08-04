@@ -3,22 +3,30 @@ title: Pro Features
 description: A guide to Flotes pro features
 ---
 
+## Generate Notebooks with AI
+
+Create notebooks on any topic almost instantly using powerful AI models. Flotes uses the sophisticated [Claude-Sonnet 3.5](https://www.anthropic.com/news/claude-3-5-sonnet) model to generate notebooks pre-configured with fill in the blanks, links to resources, and detailed explanations.
+
+[⚡ Try the generator for free](https://flotes.app/home/generate)
+
 ## Cloud Sync Canvas
 
-The canvas feature of Flotes saves to your **browser locally**. With a pro subscription, **canvas will save to a server**. This means your data is **available across all devices**. This also **protects your canvas data** in the event of your computer crashing or browser cache being cleared.
+> _Does not require setup_
 
+The canvas feature of Flotes saves to your **browser locally**. With a pro subscription, **canvas will save to a server**. This means your data is **available across all devices**. This also **protects your canvas data** in the event of your computer crashing or browser cache being cleared.
 
 :::note[Publish Canvas]
 Pro users can share their canvas with others. Setting a Notebook to public will publish the canvas. This can be a great way to create interesting & engaging content for others.
 
-See example: [Signals Deep Dive Canvas](http://localhost:5173/public/📡-angular-signals-guide-6j1RJNknv?c=true)
+See example: [Signals Deep Dive Canvas](http://flotes.app/public/📡-angular-signals-guide-6j1RJNknv?c=true)
 :::
 
 ## Webhooks
 
-> *Requires some setup*
+> _Requires some setup_
 
 Integrate Flotes with 100s of other apps like: **Trello, Notion, Google Calendar, G-Mail, Todoist**
+
 - Create todos out of future study sessions
 - Automatically schedule the optimal study date in other apps
 - Upload notes to other note-taking or storage apps after archiving a notebook
@@ -27,12 +35,12 @@ Integrate Flotes with 100s of other apps like: **Trello, Notion, Google Calendar
 
 [See guides & examples](https://docs.flotes.app/guides/webhooks)
 
-
 ## Enhanced Feedback
 
-> *Does not require setup*
+> _Does not require setup_
 
-Flotes pro will track feedback and object measurments during study sessions **on a per-note basis**. This unlocks many potential features to improve your notes
+Flotes pro will track self-evaluation and objective measurements during study sessions **on a per-note basis**. This unlocks many potential features to improve your notes
+
 - Identify problem areas
 - Find strengths and weaknesses
 - Split or simplify where too difficult
@@ -43,6 +51,7 @@ In this example, Data Structures and Algorithm Computer Science notes have been 
 ![feedback](https://ik.imagekit.io/flotes/2024-02-12_17-00-EDIT-EDIT.jpg?updatedAt=1707779675265)
 
 A more advanced example calculates the status from multiple study session or objective measures. Advanced statuses like this can help identify problem areas or room for improvement
+
 - **Very easy** identifies areas to increase the challenge or combine multiple very easy into a single more challenging note
 - **Leech** can identify notes that are taking significant amounts of time to study and may be difficult to understand
 - **Stagnating** highlights notes that seem medium difficulty, but are deceptively difficult, because they aren't getting easier with practice.
@@ -54,7 +63,3 @@ A more advanced example calculates the status from multiple study session or obj
 We plan to extend this functionality into other parts of the app.
 
 :::
-
-
-
-
