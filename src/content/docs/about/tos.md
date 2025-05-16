@@ -9,11 +9,11 @@ description: Flotes Terms of Service
 
 We are Flotes ("Company," "we," "us," "our"), a company registered in Missouri, United States at 1200 Lake Saint Louis Blvd, Unit #119, Lake Saint Louis, MO 63367.
 
-We operate the website https://flotes.app (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
+We operate the website <https://flotes.app> (the "Site"), as well as any other related products and services that refer or link to these legal terms (the "Legal Terms") (collectively, the "Services").
 
 Flotes is a note taking web application focused on creating/importing notes that can be studied and leverage spaced repetition, using basic Markdown.
 
-You can contact us by phone at 1-217-416-1706, email at contact.flotes@gmail.com, or by mail to 1200 Lake Saint Louis Blvd, Unit #119, Lake Saint Louis, MO 63367, United States.
+You can contact us by email at <erik@flotes.app>, or by mail to 1200 Lake Saint Louis Blvd, Unit #119, Lake Saint Louis, MO 63367, United States.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and Flotes, concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
@@ -22,7 +22,6 @@ Supplemental terms and conditions or documents that may be posted on the Service
 The Services are intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Services.
 
 We recommend that you print a copy of these Legal Terms for your records.
-
 
 ## TABLE OF CONTENTS
 
@@ -38,9 +37,9 @@ We recommend that you print a copy of these Legal Terms for your records.
 - [10. GUIDELINES FOR REVIEWS](#10-guidelines-for-reviews)
 - [11. SOCIAL MEDIA](#11-social-media)
 - [12. THIRD-PARTY WEBSITES AND CONTENT](#12-third-party-websites-and-content)
-- [13. SERVICES MANAGEMENT](#13-SERVICES-MANAGEMENT)
+- [13. SERVICES MANAGEMENT](#13-services-management)
 - [14. PRIVACY POLICY](#14-privacy-policy)
-- [15. COPYRIGHT INFRINGEMENTS](#15-COPYRIGHT-INFRINGEMENTS)
+- [15. COPYRIGHT INFRINGEMENTS](#15-copyright-infringements)
 - [16. TERM AND TERMINATION](#16-term-and-termination)
 - [17. MODIFICATIONS AND INTERRUPTIONS](#17-modifications-and-interruptions)
 - [18. GOVERNING LAW](#18-governing-law)
@@ -54,7 +53,6 @@ We recommend that you print a copy of these Legal Terms for your records.
 - [26. CALIFORNIA USERS AND RESIDENTS](#26-california-users-and-residents)
 - [27. MISCELLANEOUS](#27-miscellaneous)
 - [28. CONTACT US](#28-contact-us)
-
 
 ## 1. OUR SERVICES
 
@@ -83,7 +81,7 @@ solely for your personal, non-commercial use.
 
 Except as set out in this section or elsewhere in our Legal Terms, no part of the Services and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 
-If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: contact.flotes@gmail.com. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+If you wish to make any use of the Services, Content, or Marks other than as set out in this section or elsewhere in our Legal Terms, please address your request to: <contact.flotes@gmail.com>. If we ever grant you the permission to post, reproduce, or publicly display any part of our Services or Content, you must identify us as the owners or licensors of the Services, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 
 We reserve all rights not expressly granted to you in and to the Services, Content, and Marks.
 
@@ -131,12 +129,13 @@ You may be required to register to use the Services. You agree to keep your pass
 ## 5. PURCHASES AND PAYMENT
 
 We accept the following forms of payment:
--  Visa
--  Mastercard
--  American Express
--  Discover
--  Google Pay
--  Cash App Pay
+
+- Visa
+- Mastercard
+- American Express
+- Discover
+- Google Pay
+- Cash App Pay
 
 You agree to provide current, complete, and accurate purchase and account information for all purchases made via the Services. You further agree to promptly update account and payment information, including email address, payment method, and payment card expiration date, so that we can complete your transactions and contact you as needed. Sales tax will be added to the price of purchases as deemed required by us. We may change prices at any time. All payments shall be in US dollars.
 
@@ -152,7 +151,7 @@ Your subscription will continue and automatically renew unless canceled. You con
 
 Cancellation
 
-You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at contact.flotes@gmail.com.
+You can cancel your subscription at any time by logging into your account. Your cancellation will take effect at the end of the current paid term. If you have any questions or are unsatisfied with our Services, please email us at <contact.flotes@gmail.com>.
 
 Fee Changes
 
@@ -187,7 +186,6 @@ As a user of the Services, you agree not to:
     Make any unauthorized use of the Services, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
     Use the Services as part of any effort to compete with us or otherwise use the Services and/or the Content for any revenue-generating endeavor or commercial enterprise.
     Use the Services to advertise or offer to sell goods and services.
-
 
 ## 8. USER GENERATED CONTRIBUTIONS
 
@@ -239,7 +237,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
 ## 14. PRIVACY POLICY
 
-We care about data privacy and security. Please review our Privacy Policy: https://docs.flotes.app/about/privacy. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
+We care about data privacy and security. Please review our Privacy Policy: <https://docs.flotes.app/about/privacy>. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Please be advised the Services are hosted in the United States. If you access the Services from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Services, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States.
 
 ## 15. COPYRIGHT INFRINGEMENTS
 
@@ -293,7 +291,7 @@ Visiting the Services, sending us emails, and completing online forms constitute
 
 If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
 
-## 27.   MISCELLANEOUS 
+## 27. MISCELLANEOUS
 
 These Legal Terms and any policies or operating rules posted by us on the Services or in respect to the Services constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Legal Terms shall not operate as a waiver of such right or provision. These Legal Terms operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Legal Terms is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Legal Terms and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Legal Terms or use of the Services. You agree that these Legal Terms will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Legal Terms and the lack of signing by the parties hereto to execute these Legal Terms.
 
@@ -307,6 +305,5 @@ Erik Verduin
 Unit #119
 Lake Saint Louis, MO 63367
 United States
-Phone: 1-217-416-1706
-contact.flotes@gmail.com
+erik@flotes.app
 ```
