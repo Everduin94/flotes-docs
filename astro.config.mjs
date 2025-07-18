@@ -7,7 +7,7 @@ import catppuccin from "@catppuccin/starlight";
 export default defineConfig({
   integrations: [
     starlight({
-      plugins: [catppuccin({ dark: { flavor: "mocha", accent: "sky" } })],
+      plugins: [catppuccin({ dark: { flavor: "mocha", accent: "sky" },    light: { flavor: "latte", accent: "sky" }, })],
       title: "Flotes Docs",
       logo: {
         src: "./public/favicon.svg",
