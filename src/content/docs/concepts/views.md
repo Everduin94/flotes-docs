@@ -1,6 +1,6 @@
 ---
 title: Views
-description: Flotes Documentation - Views - Study, Summary, Canvas, Wiki
+description: Flotes Documentation - Views - Study, Summary, Canvas, Graph
 ---
 
 A notebook can be viewed in multiple formats geared towards learning.
