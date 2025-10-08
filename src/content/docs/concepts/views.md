@@ -1,6 +1,6 @@
 ---
 title: Views
-description: Flotes Documentation - Views - Study, Summary, Canvas, Wiki
+description: Flotes Documentation - Views - Study, Summary, Canvas, Graph
 ---
 
 A notebook can be viewed in multiple formats geared towards learning.
@@ -8,6 +8,7 @@ A notebook can be viewed in multiple formats geared towards learning.
 - [**Study**](/concepts/views/#study-view): Similar to flashcard applications. Fill in blanks and self-evaluate.
 - [**Summary**](/concepts/views/#summary-view): Aggregate all notes into long-form content.
 - [**Canvas**](/concepts/views/#canvas-view): Plot notes onto a canvas. Add connections, groups, and embed content.
+- [**Graph**](/concepts/views/#graph-view): Visualize connections between notes and notebooks using backlinks.
 
 ## Study View
 
@@ -76,5 +77,21 @@ The canvas view offsets this limitation by allowing notes to be placed visually 
 Canvas can be exported using the open JSON Canvas specification, making them compatible with other tools that support the format. This approach avoids vendor lock-in and ensures your entire canvas—including note positions, links, and embeds—can be freely exported.
 
 :::
+
+## Graph View
+
+
+<div style="border: 1px solid rgba(108, 112, 134, .5); border-radius: 8px; box-shadow: rgba(0, 0, 0, .35) 0 5px 15px; margin-bottom: 2rem;">
+  <img style="border-radius: 12px; object-fit: cover; object-position: top; max-height: 20rem; width: 100%" src="https://ik.imagekit.io/flotes/graph-view.png?updatedAt=1746884242308"  />
+</div>
+
+Flotes includes a graph view similar to tools like Obsidian, providing a visual representation of how your notes and notebooks connect through [backlinks](/concepts/backlinks).
+
+Adding backlinks to notes and notebooks automatically creates nodes in the graph view. This creates an interactive network that helps you understand the relationships and structure within your knowledge base.
+
+- **Notebook nodes** (displayed in green) are clickable and will navigate to that notebook's graph view
+- **Note nodes** (displayed in blue) are clickable and will navigate to edit/read that note
+
+The graph view enhances navigation and makes it easier to discover connections between different parts of your notes, turning your notebook into an interconnected web of knowledge.
 
 
