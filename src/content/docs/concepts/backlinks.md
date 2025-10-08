@@ -9,20 +9,18 @@ description: Flotes Documentation - Backlinks - Create a second brain or digital
 
 Flotes can link notes to each other using wikipedia style backlinks. In the note editor, type `[[` to search and select notes from any notebook. This will create a previewable backlink to that note.
 
-
-
-
-
 :::note[Instant Previews]
-Hover over any linked note to preview its content without leaving the page.
+Hover over any backlink to preview its content without leaving the page.
 :::
 
-
+:::note[Global Search]
+A note must be synced to your device to show up in the search-all notes section. - Notes automatically sync to your device when visiting a notebook.
+:::
 
 ## Creating a Second Brain / Digital Garden
 
-This feature allows you to build a “second brain” — a personal knowledge system where notes are naturally connected. This creates a web of relationships that makes your ideas easier to explore, navigate, and remember.
+This feature allows you to build a “second brain” — a personal knowledge system where notes are naturally connected. This creates a web of relationships that makes your ideas easier to explore, navigate, and remember. You can visualize and navigate through these relationships in the [Graph View](https://docs.flotes.app/concepts/views/#graph-view).
 
 :::note[Custom Links]
-Backlinks in Flotes are technically plain markdown links. You can search and link to notes across all notebooks in Flotes. Note that notes must be synced to your device to appear in search—all notes for a notebook are synced when you visit that notebook.
+Backlinks in Flotes are technically plain markdown links. You can write a markdown link to anywhere in Flotes, and it will be stylized as a backlink.
 :::
